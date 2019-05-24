@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Nutritionist",
-    "slug": "Nutritionist",
+    "name": "Test App",
+    "slug": "MenuExpo",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
